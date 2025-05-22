@@ -7,7 +7,9 @@ Ivory
 Khaki
 Coral
 Silver
-Fuchisa
+Fuchsia
 Gray
 Brown
 Red
+Magenta
+Purple
